@@ -1,4 +1,4 @@
-country,year, gdp_for_year ($) ,gdp_per_capita ($)
+country,year, gdp_for_year, gdp_per_capita
 Antigua and Barbuda,2015,"1,364,863,037",14853
 Argentina,2015,"594,749,285,413",14981
 Armenia,2015,"10,553,337,673",3775
